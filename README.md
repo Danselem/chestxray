@@ -119,7 +119,7 @@ To stop the `docker-compose`, use the command:
 docker-compose down
 ```
 
-See here
+See the video below for how to run the docker compose in your environment.
 
 <video src='https://cloudcape.saao.ac.za/index.php/s/JILbWNrXsvhNwX0/download'></video>
 
