@@ -121,6 +121,12 @@ docker-compose down
 
 See the video below for how to run the docker compose in your environment.
 
+
+
+https://user-images.githubusercontent.com/20551467/209128529-e972eafa-3853-40cd-9e62-c8acbde86498.mp4
+
+
+
 <video src='https://cloudcape.saao.ac.za/index.php/s/JILbWNrXsvhNwX0/download'></video>
 
 
