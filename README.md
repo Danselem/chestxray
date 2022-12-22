@@ -1,4 +1,5 @@
 # Chest Xray Image Prediction
+![af141f4e6918e0e280a94d1efc1940_gallery](https://user-images.githubusercontent.com/20551467/209189643-a0e28043-1559-49c7-ad34-9632e434bece.jpg)
 
 
 ## Problem
