@@ -114,5 +114,15 @@ pipenv run python test.py
 ```
 This takes a chest xray image from a url, transform the image into tensors and parse it to the tensorflow model for prediction and ouputs the prediction results into any of the categories and the confidence value.
 
+To stop the `docker-compose`, use the command:
+```bash
+docker-compose down
+```
+
+See here
+
+<video src='https://cloudcape.saao.ac.za/index.php/s/JILbWNrXsvhNwX0/download'></video>
+
+
 ## License
 Distributed under the terms of the [MIT](https://opensource.org/licenses/MIT) license, `chestxray` is free and open source software.
